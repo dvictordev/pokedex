@@ -1,70 +1,66 @@
-.mainContainer{
-    background: linear-gradient(180deg, #2962e6 0%, #18396a 100%);
+.mainContainer {
+  background: linear-gradient(180deg, #2962e6 0%, #18396a 100%);
 }
 
-.homeMain{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 79.8vh;
+.homeMain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 79.8vh;
 }
 
-
-.aside{
-    margin-left: 60px;
-    display: flex;
-    flex-direction: column;
-    gap: 70px;
-    max-width: 516px;
+.aside {
+  margin-left: 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  max-width: 516px;
 }
 
-.aside h1{
-    font-size: 4.5rem;
-    font-weight: 200;
+.aside h1 {
+  font-size: 4.5rem;
+  font-weight: 200;
 }
 
-.aside span{
-    font-weight: 700
+.aside span {
+  font-weight: 700;
 }
 
-.aside p{
-    font-size: 2rem;
+.aside p {
+  font-size: 2rem;
 }
 
-
-.aside button{
-    background-color: #73D677;
-    border-radius: 11px;
-    width: 200px;
-    height: 55px;
-    font-size: 1.23rem;
-    border: 0;
-    cursor: pointer;
-    box-shadow: 2px 6px 9px -1px rgba(87,163,88,1);
-    -webkit-box-shadow: 2px 6px 9px -1px rgba(87,163,88,1);
-    -moz-box-shadow: 2px 6px 9px -1px rgba(87,163,88,1);
+.aside button {
+  background-color: #73d677;
+  border-radius: 11px;
+  width: 200px;
+  height: 55px;
+  font-size: 1.23rem;
+  border: 0;
+  cursor: pointer;
+  box-shadow: 2px 6px 9px -1px rgba(87, 163, 88, 1);
+  -webkit-box-shadow: 2px 6px 9px -1px rgba(87, 163, 88, 1);
+  -moz-box-shadow: 2px 6px 9px -1px rgba(87, 163, 88, 1);
 }
 
-
-.aside button:hover{
-    background-color: #6fe773;
+.aside button:hover {
+  background-color: #6fe773;
 }
 
-
-.container img{
-    position: relative;
-    right: 0;
+.container img {
+  position: relative;
+  right: 0;
 }
 
-.footer{
-    padding: 30px 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
+.footer {
+  padding: 30px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
 }
 
-.footer a img{
-    width: 30px;
-    height: 30px;
+.footer a img {
+  width: 30px;
+  height: 30px;
 }
