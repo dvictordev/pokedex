@@ -1,13 +1,12 @@
 .mainContainer{
-    background: linear-gradient(180deg, #F5DB13 0%, #F2B807 100%);
-    height: 100vh;
+    background: linear-gradient(180deg, #2962e6 0%, #18396a 100%);
 }
 
 .homeMain{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+    height: 79.8vh;
 }
 
 

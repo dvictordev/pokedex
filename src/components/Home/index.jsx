@@ -7,7 +7,7 @@ import {Header} from '../Header'
 export function Home(){
     return(
         <div className='mainContainer'> 
-        <Header />
+        
         <main className="homeMain">
             <aside className="aside">
             <h1>
